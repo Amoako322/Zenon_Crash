@@ -5,15 +5,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348165846414"
-global.ownername = "𝑻𝒐𝒙𝒙𝒊𝒄 𝑩𝒐𝒚"
-global.ytname = "YT: ToxxicTech"
-global.socialm = "GitHub: Toxic1239"
-global.location = "Nigeria"
+global.ownernomer = "233205755442"
+global.ownername = "Ghanney"
+global.ytname = "YT: Ghanny_Tech"
+global.socialm = "GitHub: Amoako322"
+global.location = "Ghanna"
 
-global.ownernumber = '2348165846414'  //creator number
-global.ownername = '𝑻𝒐𝒙𝒙𝒊𝒄 𝑻𝒆𝒄𝒉' //owner name
-global.botname = '𝒁𝒆𝒏𝒐𝒏 𝒁𝒐𝒈𝒓𝒂𝒕𝒊𝒔' //name of the bot
+global.ownernumber = '233205755442'  //creator number
+global.ownername = 'Ghanney' //owner name
+global.botname = 'Ghanny bot' //name of the bot
 
 // MENU TYPE
 /* Rules
@@ -62,7 +62,7 @@ global.mess = {
     done: '𝑻𝒂𝒔𝒌 𝑫𝒐𝒏𝒆 𝑺𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚!',
     prem: '𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒊𝒔 𝑭𝒐𝒓 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑼𝒔𝒆𝒓𝒔',
     admin: '𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒊𝒔 𝑭𝒐𝒓 𝑨𝒅𝒎𝒊𝒏𝒔 𝑶𝒏𝒍𝒚',
-    botAdmin: '𝒁𝒆𝒏𝒐𝒏 𝑴𝒖𝒔𝒕 𝑩𝒆 𝑨𝒅𝒎𝒊𝒏 𝑭𝒊𝒓𝒔𝒕',
+    botAdmin: 'Amoako Ghanney 𝑩𝒆 𝑨𝒅𝒎𝒊𝒏 𝑭𝒊𝒓𝒔𝒕',
     owner: '𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒊𝒔 𝑭𝒐𝒓 𝑶𝒘𝒏𝒆𝒓 𝑶𝒏𝒍𝒚',
     group: '𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒊𝒔 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑 𝑪𝒉𝒂𝒕 𝑶𝒏𝒍𝒚',
     private: '𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒊𝒔 𝑭𝒐𝒓 𝑷𝒓𝒊𝒗𝒂𝒕𝒆 𝑪𝒉𝒂𝒕 𝑶𝒏𝒍𝒚',
